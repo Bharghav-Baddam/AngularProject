@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <table style:"float:center" border="1" width="50%" id="t01">
+        <caption>Technology Stack</caption>
+        <tr>
+            <th>Languages</th>
+            <th>FrameWorks</th>
+            <th>DataBases</th>
+            <th>Tools</th>
+        </tr>
+        <tr ng-repeat="x in names">
+            <td>{{ x.Language| uppercase }}</td>
+            <td>{{ x.FrameWorks| uppercase }}</td>
+            <td>{{ x.DataBases| uppercase }}</td>
+            <td>{{ x.Tools| uppercase }}</td>
+        </tr>
+    </table>
+</body>
+
+</html>

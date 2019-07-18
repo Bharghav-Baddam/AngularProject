@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "Language": "JAVA",
+            "FrameWorks":"JAVA JEE",
+            "DataBases":"PostgreSQL",
+            "Tools":"GIT"
+        },
+        {
+            "Language": "PYTHON",
+            "FrameWorks":"SPRING MVC",
+            "DataBases":"SQL",
+            "Tools":"JIRA"
+        },
+        {
+            "Language": "TYPE SCRIPT",
+            "FrameWorks":"ANGULARJs",
+            "DataBases":"PL/SQL",
+            "Tools":"ECLIPSE"
+        },
+        {
+            "Language": "JAVASCRIPT",
+            "FrameWorks":"HIBERNATE",
+            "DataBases":"MONGODB",
+            "Tools":"INTELLIJ IDEA"
+        },
+        {
+            "Language": "R BASICS",
+            "FrameWorks":"JDBC",
+            "Tools":"MATLAB"
+        },
+        {
+            "Language": "HTML",
+            "FrameWorks":"AWS(RDS,EC2)",
+            "Tools":"R STUDIO"
+        },
+        {
+            "Tools":"TABLEAU"
+        },
+        {
+            "Tools":"REST API"
+        }
+    ]
+}
